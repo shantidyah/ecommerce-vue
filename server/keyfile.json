@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "treasure-fox-210604",
+    "private_key_id": "6f2bf232658c515abd3a9a99d453e14573cb6570",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDdx8mrF1RvsyDa\nyIdYYa1v5M9zOL3GzTuzarspOo083oSQPbc+Fz2RtLkkTY79jrepJIh6tw+HBblB\n+TJBiykEaGzpNZ0Edd6OJ/+HiMQmDIgu9fmwvLfSVbB2w9wrWUKYTcTl9z3rzjsn\nsnjBWwhUpBtwKkIeMYxWqaMAZ0MpDz5rLU7NCakP0uh7TOFyMxeARhPVpwQNZmDf\nn/vYWzhn812a+V3FHPPobYqHXoZ2qynIjDTJMreZZWPB+EWbTYbU9rmN4fYnQmY3\ndnPF48KIl+0tEmEWc1DHYKbhnYf52qVZkFol3b9XCzmKRDyP2dn/aUCneaBCQgcH\n4P45/fMFAgMBAAECggEAFsKzYzAnQGQT+fASLSivxH0pKcwydG3JSTipvD71PMB3\naVg0GewHq7ruNJgTFdmTkV5y9T5xRQGk3sJE0pjbXPJHRHMgn1MQw+ponTpqKvTR\nSxnVBhAwFfwo+on6P/v5S357t8Af0OH0Nzbn5qwW1vI/8KBy8vynHZkWO0CIZ3T8\noeEP96+xBnP2KsXWRf8vv1UsfH3rf6p1fc2c1H8HWY2swIVEd3gOFTcrvJcbcWuF\npmHn2iubZN1KnMs61epLJgva/cje9S5Qr6PfBK0sRQZO/JEgHNotNrkBkbtO7lU7\nD/YClcg5byZTCeTvdjQvRNz2l5/BL8yWQzhk6AIX9wKBgQDvfDBljJ7XsYfdWwFU\nRuiFpZMIh1e5kQ4Rc/3KHRhAWudACeujAxKOfqhgJBA793gtN4fR0pGPxjhHA/wm\nRU1reo0PyGkIYp88m/6kpo2Y5UJDdg72kX5SBs2yZuzIywcL8ZySaXfdit6jTbE5\nFMjKW/kxqVge7XX/Gq2Qs2WGkwKBgQDtEwthb62YpNEJb6eXJdF1j4eQo0fjYnh6\nwCjPEFRjZVtmbePHdJVNWpldOQSwrH6YL/m2wSJ4LOAbYz6F+LLesCkOuD0CeNN7\nMGC5g5KLRdG1DKsFwcNXKXCRP5dAavCMrf2EG3jPSptg9dLwLYqDIufRDktKwRyR\ndx6g3NnHBwKBgC35ND06Wn/jp8ZZow6vshF98JTxjmikLQQytSSoozAvgzcq8F5R\nx60tKVuTcL5iSmK7x0oDV0g3cDRJ0ozyPuOEGjJOccNXU2RKOf8XrhUM5cSXlFXH\nJm3Ouowl8Ay31Pl4/2qn7ofMEeNdlcj0cXtPXq4m6TC+uykm0Oz3U2UbAoGAVog6\nAjGSKoIWLpyLjlbmckOWVsvSZIO/uAZFnva15qXLS8LWfinmiRqFmgpC1P3RI1l3\niyZJn5W5oyWBX8Mb/r5L7ix/UFSr1G4fD/efWKh+V9gs4GgOFdVxWgLdAU1HSgID\n4+FnIjp4JlbzzGjDAwSNmrfd8YY1GD9jdZHHB6cCgYA4yqYJjsINyj+n1jkOggoI\nR/3Q/nY2FhOSk1LCZHLUgQb8QdymSDTykI1zJoaINMLO3H8fgAbgO/xEUYuvdgeb\nkUbL/C4f0xjzwxUNQ6gveM+fw+za9MN8rZ6DTozm59iuEN7TlPBzJvQxtkfYssuR\nzyq8H/5GP0OoYnz4nXXBuw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "new-ecomm@treasure-fox-210604.iam.gserviceaccount.com",
+    "client_id": "105044878635949640327",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-ecomm%40treasure-fox-210604.iam.gserviceaccount.com"
+  }

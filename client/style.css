@@ -1,0 +1,65 @@
+.content-img {
+    align-content: center;
+    padding-top: 15px
+}
+
+    
+.img:hover {    
+    transform: scale(1.5);
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    /* margin-top: 5px; */
+}
+
+.icon-cart {
+    margin-left: 20px
+}
+
+#itemCount {
+    position: absolute;
+    display: block;
+    top: 10px;
+    right: 35px;    
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+    text-align: center;
+    border: none
+}
+
+#header {
+    height: 100px;
+    background: url('https://s0.bukalapak.com/images/header-lapak-default.jpg')
+}
+#logo {
+    font-family: sans-serif;
+    padding-top: 20px
+}
+#search {
+    float: right;
+    /* text-align: right; */
+    margin-top: 5%;
+}
+
+#disc {
+    position: absolute;
+    display: block;
+    top: 20px;
+    right: 35px;    
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+    text-align: center;
+    border: none
+}
+
+[v-cloak]{
+    display:none
+}
